@@ -1,0 +1,2 @@
+# Web-Scraping-in-eBay
+Created code to search for buy-it-now listings of "Canon eos 5d" on the eBay website with the limit of the number of items to 100 per page. Then For the first 10 pages of 100 items/page, saved all the URLs of sponsored items' pages to the file "sponsored.txt" and all the URLs of non-sponsored items' pages to the file "non-sponsored.txt" in the same directory as the code with One URL per line in each file.
